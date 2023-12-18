@@ -28,6 +28,11 @@ const About = () => {
                     tạo mới lạ. Khám phá đặc sản của chúng tôi và tận hưởng một
                     hành trình ẩm thực độc đáo.
                 </p>
+                <p>
+                    Vậy nên các quý khách hàng có thể tới địa chỉ Số 531, đường
+                    Trần Phú, thành phố Hà Tĩnh để có thể tận hưởng những bữa ăn
+                    chất lượng hàng đầu.
+                </p>
             </div>
         </div>
     );
